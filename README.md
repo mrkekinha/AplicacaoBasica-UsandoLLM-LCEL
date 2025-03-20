@@ -1,4 +1,4 @@
-Aqui está um **README** detalhado para o seu repositório no GitHub com todos os passos que você mencionou, organizados de forma clara:
+
 
 ```markdown
 # Aplicação Básica Usando LLM - LCEL
